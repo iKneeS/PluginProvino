@@ -1,0 +1,7 @@
+name: PluginProvino
+version: '${project.version}'
+main: me.iknees.pluginprovino.PluginProvino
+api-version: 1.18
+commands:
+  claim:
+    usage: /<command>
